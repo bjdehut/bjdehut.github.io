@@ -95,9 +95,15 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.site-directory {
+    list-style-type: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8em;
+}
 
-
-
+.site-directory a {
+    text-decoration:none;
+}
 
 
 
