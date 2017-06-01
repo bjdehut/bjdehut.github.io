@@ -121,7 +121,10 @@ h1 {
 }
 
 
-
+.inverted {
+background-color: black;
+color: white;
+}
 
 
 
