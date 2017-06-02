@@ -131,6 +131,11 @@ color: white;
     width: 200px;
 }
 
+.comic-page li {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
 
 /* ==========================================================================
    Helper classes
