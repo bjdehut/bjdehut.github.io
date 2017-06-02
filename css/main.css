@@ -128,7 +128,12 @@ color: white;
 
 
 .author-pg img {
-    width: 200px;
+    width: 400px;
+}
+
+.comic-ix img {
+    width: 400px
+    padding-bottom: 10px;
 }
 
 .comic-page li {
