@@ -136,6 +136,11 @@ color: white;
     text-align: center;
 }
 
+.byline {
+    padding-bottom: 10px;
+}
+
+
 
 /* ==========================================================================
    Helper classes
