@@ -136,6 +136,11 @@ color: white;
     padding-bottom: 10px;
 }
 
+.magazine-pg img {
+    width: 350px
+    padding-bottom: 10px;
+}
+
 .comic-page li {
     padding-bottom: 10px;
     text-align: center;
