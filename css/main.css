@@ -134,6 +134,10 @@ color: white;
     width: 300px;
 }
 
+.videomaker-pg iframe {
+background-color: black;
+}
+
 .comic-ix img {
     width: 400px;
     padding-bottom: 10px;
