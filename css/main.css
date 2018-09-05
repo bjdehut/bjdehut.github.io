@@ -148,6 +148,11 @@ background-color: black;
     padding-bottom: 10px;
 }
 
+.radio-pg img {
+    width: 800px;
+    padding-bottom: 10px;
+}
+
 .comic-page li {
     padding-bottom: 10px;
     text-align: center;
