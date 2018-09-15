@@ -134,6 +134,10 @@ color: white;
     width: 300px;
 }
 
+.zine-pg img {
+    width: 500px;
+}
+
 .videomaker-pg iframe {
 background-color: black;
 }
